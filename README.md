@@ -23,8 +23,5 @@ This project is an interactive Excel dashboard created to analyze sales performa
 - Electronics category contributed maximum profit.
 - Accessories products sold in higher quantity but lower profit.
 
-## Dashboard Preview
-(Add screenshot here)
-
 ## Conclusion
 This dashboard helps in understanding business performance and supports better decision-making using data visualization techniques.
